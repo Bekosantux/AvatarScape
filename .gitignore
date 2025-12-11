@@ -62,3 +62,6 @@ crashlytics-build.properties
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Local docs folder (builds go to gh-pages branch)
+/docs/
